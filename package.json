@@ -1,0 +1,24 @@
+{
+  "name": "package_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/src/module_a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/module_a.js -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecoronado89/wdioBroserstack.git"
+  },
+  "author": "ecoronado <coreddin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecoronado89/wdioBroserstack/issues"
+  },
+  "homepage": "https://github.com/ecoronado89/wdioBroserstack#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0"
+  }
+}
