@@ -1,5 +1,5 @@
 {
-  "name": "package_test",
+  "name": "package_test_demo",
   "version": "1.0.0",
   "description": "",
   "main": "lib/src/module_a.js",
@@ -14,9 +14,9 @@
   "author": "ecoronado <coreddin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ecoronado89/wdioBroserstack/issues"
+    "url": "https://github.com/ecoronado89/package_test/issues"
   },
-  "homepage": "https://github.com/ecoronado89/wdioBroserstack#readme",
+  "homepage": "https://github.com/ecoronado89/package_test#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.4.0"

@@ -15,6 +15,6 @@ const funcion_b = categorypage
 // moduleMsj_a()
 
 module.exports ={
-  funcion_a : funcion_a,
-  funcion_b : funcion_b
+  productpage : productpage,
+  categorypage : categorypage
 }
